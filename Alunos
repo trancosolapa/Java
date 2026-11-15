@@ -1,0 +1,45 @@
+public class NewClass {
+    String nome;
+    String matricula;
+    double[] notas;
+
+    NewClass (String nome, String matricula, double[] notas) {
+        this.nome = nome;
+        this.matricula = matricula;
+        this.notas = notas;
+    }
+
+    void calcularMedia() {
+        double soma = 0;
+        for (int i = 0; i < notas.length; i++) {
+            soma += notas[i];
+        }
+
+        double media = soma / notas.length;
+        System.out.println("Media: " + media);
+    }
+
+    void exibirInformacoes() {
+        System.out.println("Nome: " + nome);
+        System.out.println("Matricula: " + matricula);
+    }
+}
+
+class Main {
+    public static void main (String[] args) {
+
+        double[] notas1 = {7.0, 8.0, 6.0};
+        double[] notas2 = {6.0, 10.0, 8.0};
+
+        NewClass aluno1 = new NewClass ("Andre", "123", notas1);
+        NewClass aluno2 = new NewClass ("Cuca", "456", notas2);
+
+        aluno1.exibirInformacoes();
+        aluno1.calcularMedia();
+
+        System.out.println();
+
+        aluno2.exibirInformacoes();
+        aluno2.calcularMedia();
+    }
+}
