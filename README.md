@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1500&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=420&height=60&lines=JAVA+ESTUDOS;EXERCICIOS+E+PROJETOS" alt="java estudos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1500&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=700&height=60&lines=JAVA+ESTUDOS;EXERCICIOS+E+PROJETOS+SIMPLES" alt="java estudos" />
 </div>
 
 ###
