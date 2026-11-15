@@ -5,11 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=420&height=60&lines=JAVA+ESTUDOS" alt="java estudos" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=EXERCICIOS+E+PROJETOS" alt="exercicios e projetos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1500&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=420&height=60&lines=JAVA+ESTUDOS;EXERCICIOS+E+PROJETOS" alt="java estudos" />
 </div>
 
 ###
@@ -27,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="https://pokereadme.murilonoguez.com.br/api?user=trancosolapa&pokes=475,862,899,884,877,760&bg=night" alt="Meu time Pokémon" />
+  <img src="https://pokereadme.murilonoguez.com.br/api?user=trancosolapa&pokes=475,862,899,884,877,854&bg=night" alt="Meu time Pokémon" />
 </div>
 
 ###
