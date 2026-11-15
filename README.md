@@ -1,30 +1,51 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f89820,100:5382a1&height=200&section=header&text=Java%20Estudos&fontSize=48&fontColor=ffffff&animation=fadeIn)
-
-### Exercícios e pequenos projetos desenvolvidos durante meus estudos de Java
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20constante%20atualiza%C3%A7%C3%A3o-5382a1?style=for-the-badge)
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
----
-
-## 📚 Sobre
-
-Aqui eu guardo o que vou praticando na faculdade e por conta própria. Novos exercícios entram conforme eu avanço nos estudos.
-
-## 🎯 Foco
-
-- Lógica de programação
-- Orientação a objetos
-- Boas práticas em Java
-
----
+###
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1500&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=420&height=60&lines=JAVA+ESTUDOS;EXERCICIOS+E+PROJETOS" alt="java estudos" />
+</div>
 
-Feito por [André](https://github.com/trancosolapa) 💻
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" />
+</div>
+
+###
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://pokereadme.murilonoguez.com.br/api?user=trancosolapa&pokes=6,130,376,384,197,132&bg=night" alt="Meu time Pokémon" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=REPOSITORIO+EM+CONSTANTE+ATUALIZACAO" alt="status" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://github.com/trancosolapa" target="_blank">
+    <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=PERFIL" alt="perfil" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
