@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Personagem {
     String nome;
     String classe;
-    int tipo; // 1 = Guerreiro, 2 = Mago, 3 = Arqueiro
+    int tipo;
     int nivel = 1;
     int xp = 0;
     int vidaMax;
@@ -43,7 +43,7 @@ class Personagem {
     }
 
     int calcularDano(int defesaAlvo) {
-        int variacao = (int) (Math.random() * 6); // 0 a 5
+        int variacao = (int) (Math.random() * 6);
         int dano = ataque + variacao - defesaAlvo;
         if (dano < 1) {
             dano = 1;
@@ -120,7 +120,7 @@ class Inimigo {
     }
 
     int calcularDano(int defesaAlvo) {
-        int variacao = (int) (Math.random() * 4); // 0 a 3
+        int variacao = (int) (Math.random() * 4);
         int dano = ataque + variacao - defesaAlvo;
         if (dano < 1) {
             dano = 1;
@@ -204,7 +204,7 @@ public class RPG {
     }
 
     static Inimigo gerarInimigo(int nivel) {
-        int sorteio = (int) (Math.random() * 3); // 0, 1 ou 2
+        int sorteio = (int) (Math.random() * 3);
 
         if (sorteio == 0) {
             return new Inimigo("Goblin", 40 + nivel * 10, 8 + nivel * 2, 2 + nivel, 20 + nivel * 5, 15 + nivel * 5);
@@ -306,7 +306,7 @@ public class RPG {
             dano = heroi.calcularDano(inimigo.defesa) * 2;
             System.out.println("Golpe Poderoso! Você causou " + dano + " de dano!");
         } else if (heroi.tipo == 2) {
-            dano = heroi.ataque + 10; // ignora a defesa
+            dano = heroi.ataque + 10;
             System.out.println("Bola de Fogo! Você causou " + dano + " de dano!");
         } else {
             dano = heroi.calcularDano(inimigo.defesa) + heroi.calcularDano(inimigo.defesa);
